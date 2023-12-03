@@ -5,7 +5,7 @@ import Navbar from '@/components/Navbar'
 import { Toaster } from '@/components/ui/Toaster'
 
 export const metadata = {
-    title: 'Breadit',
+    title: 'Kenyér',
     description: 'A Reddit clone built with Next.js and TypeScript.',
 }
 
