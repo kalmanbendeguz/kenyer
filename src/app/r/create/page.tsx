@@ -29,7 +29,7 @@ const Page = () => {
         if (err.response?.status === 409) {
           return toast({
             title: "Subreddit already exists.",
-            description: "Please choose a different subreddit nam.e",
+            description: "Please choose a different subreddit name.",
             variant: "destructive",
           });
         }
